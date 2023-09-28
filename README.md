@@ -1,2 +1,2 @@
 # mongo_learn
-https://github.com/yonghoow/mongo_learn.git
+https://www.w3schools.com/mongodb/index.php
